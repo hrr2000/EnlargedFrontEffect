@@ -1,0 +1,22 @@
+{
+  "name": "enlargedfronteffect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrr2000/EnlargedFrontEffect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrr2000/EnlargedFrontEffect/issues"
+  },
+  "homepage": "https://github.com/hrr2000/EnlargedFrontEffect#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
